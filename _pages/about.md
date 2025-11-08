@@ -22,14 +22,13 @@ I’m Leyi Cheng (“程乐怡” in Chinese), currently a senior student at the
 My research interests lie in **AI for Software Engineering (AI4SE)**, with a focus on applying intelligent methods to improve software quality and reliability. During my undergraduate studies, I worked on **software vulnerability detection**, exploring the integration of program analysis and machine learning. I am now extending this line of research toward data-driven and trustworthy AI techniques for automating and enhancing software engineering processes.
 
 # 📝 Publications 
-
 - [Towards the Impact of Code Readability on Vulnerability Detection: An Empirical Study](http://ksiresearchorg.ipage.com/seke/seke25paper/paper026.pdf)
-**Leyi Cheng**, Jiayi Wu, Hao Zhu, Xiaofang Zhang*(corresponding author)
-**SEKE 2025**
+  - **Leyi Cheng**, Jiayi Wu, Hao Zhu, Xiaofang Zhang*(corresponding author)
+  - **SEKE 2025**
   
 - [SGTest: A Semantics-Guided Framework for LLM-Driven Unit Test Generation](http://ksiresearchorg.ipage.com/seke/seke25paper/paper043.pdf)
-Chendong Lin, **Leyi Cheng**, Jiayi Wu, Xiaofang Zhang*(corresponding author)
-**SEKE 2025**
+  - Chendong Lin, **Leyi Cheng**, Jiayi Wu, Xiaofang Zhang*(corresponding author)
+  - **SEKE 2025**
 
 
 # 🎖 Honors and Awards
